@@ -11,7 +11,7 @@ There are five different tests that can be done:\
   https\
   dns query\
   WordPress query\
-  External Command\
+  External Command
 
 The External Command will execute whatever command string you put into the config.json file, and if it returns ANY text, it will assume that the tested node is UP...if it returns nothing, then its DOWN.
 I have placed a number of external programs that I use for my networks in the 'agents' folder.
