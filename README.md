@@ -1,4 +1,4 @@
-# HomeNetworkMonitor
+# Home Network Monitor
 ![Screenshot of HNM](/hnm-screen.png)
 
 Simple ANSI screen driven Network Monitor for Home Networks/Labs
