@@ -1,4 +1,6 @@
 # HomeNetworkMonitor
+![Screenshot of HNM](/hnm-screen.png)
+
 Simple ANSI screen driven Network Monitor for Home Networks/Labs
 
 This is a very simple Network Monitor that I use for my home network and lab.  It uses ANSI codes inside a terminal session and lists all the configured network nodes and either a green 'UP', a red 'DOWN', or a blue unknown status.
