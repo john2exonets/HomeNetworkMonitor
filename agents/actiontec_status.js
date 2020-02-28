@@ -1,5 +1,5 @@
 //
-//   Status of ActionTec router (Frontier)
+//   Status of ActionTec router
 //
 
 var Telnet = require('telnet-client');
