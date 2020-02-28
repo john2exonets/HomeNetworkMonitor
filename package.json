@@ -1,0 +1,35 @@
+{
+  "name": "hnm",
+  "version": "0.3.2",
+  "description": "Simple Home Network Monitor",
+  "author": "John D. Allen",
+  "main": "hnm.js",
+  "keywords": [
+    "ANSI",
+    "ping",
+    "MQTT"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john2exonets/HomeNetworkMonitor.git"
+  },
+  "scripts": {
+    "test": "",
+    "devrun": "nodemon ./hnm.js",
+    "run": "node ./hnm.js"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.26",
+    "mqtt": "^3.0.0",
+    "ping": "^0.2.2",
+    "telnet-client": "^1.0.4",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "expect.js": "^0.3.1",
+    "nodemon": "^1.19.0"
+  },
+  "license": "MIT"
+}
